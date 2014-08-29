@@ -1,0 +1,38 @@
+Cooper's Terrain Pack (CTP)
+
+This mod was made by Cooper Mahring using the Banished ModKit. If you want to use my code please give credit and follow the license. Thanks for downloading my mod and looking at my code. if you want to look at more of my projects (not that any of them are good), you can go to https://github.com/coopmaster or eventually I'll have a website.
+
+This mod adds a bunch of terrain types that some are practical and some are just funny. Some of the terrain types like the "More Rivers" terrain types cause a significant increase in load time and the large map has taken ten minutes while testing in debug mode. In the future there will be more added but for this mod it will only be terrain. Any future mods that I make for banished will be linked here. If you have any problems or suggestions comment here or email me at coopmaster24@gmail.com and I will read all emails (probably). Keep in mind the limitations of the current modkit when making suggestions please. For instance I can't make it to where there are no rivers (minimum of 1), I can't change any mechanics of the game significantly nor the terrain generation. Thanks for downloading and enjoy the extra terrains!
+
+
+✓TODO: 
+	Add extra sizes to maps (including vanilla maps)
+	Add more terrains
+	(comment or email me so I can make this list longer)
+
+
+Files included:
+CTP
+	bin
+	Dialog
+		CTPStringTable.rsc
+	Game
+		Terrain
+			CTPBigLake.rsc
+			CTPFlat.rsc
+			CTPFlatWater.rsc
+			CTPMoreLakes.rsc
+			CTPMountainRivers.rsc
+			CTPValleyRivers.rsc
+			TerrainList.rsc
+	icon.png
+	Package.rsc
+BuildRunCTP.bat
+BuildCTP.bat
+LICENSE
+README
+CTP.pkm
+
+
+CHANGELOG:
+V1 - Initial release
