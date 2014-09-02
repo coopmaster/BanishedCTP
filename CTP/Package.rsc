@@ -4,7 +4,7 @@ PackageFile CTP
 	String _author = "Cooper Mahring";
 	String _description = "This mod adds a bunch of terrain types.";
 	String _icon = "icon.png";
-	int _userVersion = 1;
+	int _userVersion = 2;
 
 	// all files in resource directory
 	String _includeList
@@ -25,6 +25,7 @@ ExternalList list
 {
 	External _resources
 	[
-	"Game/Terrain/TerrainList.rsc"
+		"Game/Terrain/TerrainList.rsc"
+		"Dialog/StringTable.rsc:terrainSize"
 	]
 }
