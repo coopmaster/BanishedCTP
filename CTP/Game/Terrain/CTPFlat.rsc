@@ -146,11 +146,11 @@ TerrainGenerator resource
 			int _mapSize = 384;
 
 			// number of flat areas
-			int _flatAreaCount = 1;
+			int _flatAreaCount = 384;
 
 			// size of flat areas
-			int _minFlatAreaSize = 2000;
-			int _maxFlatAreaSize = 2000;
+			int _minFlatAreaSize = 100;
+			int _maxFlatAreaSize = 100;
 
 			// number of areas to avoid
 			int _avoidAreaCount = 8;
